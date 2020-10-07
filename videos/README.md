@@ -10,3 +10,4 @@ Things to bear in mind:
   [Narakeet](https://www.narakeet.com/).
 * It'll take several iterations to refine and adjust your video. Experiment!
 * Full details of the scripting options can be [found on Narakeets website](https://www.narakeet.com/docs/format/).
+* Free to use music can be [found here](https://www.youtube.com/audiolibrary/music).
