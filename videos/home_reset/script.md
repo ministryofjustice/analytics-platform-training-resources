@@ -97,6 +97,11 @@ Continue to use `R` studio in the usual way.
 Since your home directory has been reset, you will have to re-install any
 packages with conda.
 
+(pause: 1)
+
+The important thing to remember is that you're starting to use conda
+from a clean state.
+
 ---
 
 ![](moj_logo.png)
