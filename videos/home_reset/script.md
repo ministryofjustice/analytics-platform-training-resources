@@ -81,16 +81,31 @@ So, go grab a coffee while this process completes.
 
 ---
 
-![](ripley2.mp4)
+![00-04](ripley2.mp4)
 
 When `R` studio has finished restarting,
 click on the open button.
 
 ---
 
-![](ripley3.mp4)
+![04-10](ripley2.mp4)
 
-Continue to use `R` studio in the usual way.
+(pause: 1)
+
+Log into `R` Studio in the usual way.
+
+---
+
+![10-20](ripley2.mp4)
+
+(pause: 1)
+
+`R` studio and your home directory will be in a clean state, ready for
+you to continue working.
+
+---
+
+![20-35](ripley2.mp4)
 
 (pause: 1)
 
@@ -101,6 +116,10 @@ packages with conda.
 
 The important thing to remember is that you're starting to use conda
 from a clean state.
+
+(pause: 1)
+
+Installation should proceed without any errors.
 
 ---
 
