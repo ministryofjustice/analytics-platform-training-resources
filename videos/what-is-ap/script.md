@@ -1,6 +1,6 @@
 ---
 size: 720p
-background: bach_cello.mp3 fade-out
+background: bach_cello.mp3
 transition: crossfade 0.2
 theme: light
 voice: Elisabeth 
