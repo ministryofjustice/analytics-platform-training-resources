@@ -8,13 +8,9 @@ voice: Elisabeth
 
 ![](moj_logo.png)
 
-(pause: 3)
-
-This short video introduces the Ministry of Justice's Analytical Platform.
-
 (pause: 1)
 
-The Analytical Platform is a suite of browser based tools for ingesting, storing, analysing and presenting data.
+The Ministry of Justice's Analytical Platform is a suite of browser based tools for ingesting, storing, analysing and presenting data.
 As an analyst, this is the tool you'll use most often.
 
 (pause: 1)
@@ -29,10 +25,9 @@ It's developed, supported and operated by the Ministry of Justice's Analytical P
 
 (pause: 1)
 
-To use the platform sign up for GitHub, which is also where you'll store all your code.
+To use the platform sign up for GitHub.
 Once set up, email the Analytical Platform team to enable your GitHub account on the platform.
 
-(pause: 1)
 (voice: carol) 
 
 Full details of the sign-up process can be found in the links associated with this video.
@@ -52,19 +47,36 @@ All your work created with such tools is stored in GitHub.
 
 ---
 
-![](data_sources.mp4)
+![](rstudio.mp4)
+
+(voice: carol)
+
+'R' Studio is a popular application for writing `R` code and `R` Shiny web apps.
+
+---
+
+![](jupyter.mp4)
 
 (voice: william)
 
-(pause: 1)
+JupiterLab is a Python based data analysis platform that mixes code, data, prose and images.
+> JupyterLab is a Python based data analysis platform that mixes code, data, prose and images.
 
-It's also possible to use cloud data services such as Amazon Athena, Glue and Redshift.
+These tools ensure analysis is reproducable and expressed as code.
 
-Your data is usually stored in Amazon `S` 3 buckets.
+---
 
-(pause: 1)
+![](data_sources.mp4)
 
-However, if you require data from a different source you should talk to our friendly data engineering team who will be happy to advise.
+(voice: elisabeth)
+
+Operational databases are available on the Analytical Platform.
+
+This includes data for prisons, probation, and criminal courts.
+
+Analysts are also free to use their own data on the Analytical Platform, subject to the usual data protection considerations.
+
+Please contact our data engineering team who will be happy to advise.
 
 ---
 
@@ -72,9 +84,13 @@ However, if you require data from a different source you should talk to our frie
 
 (voice: carol) 
 
-(pause: 2)
+(pause: 1)
 
 Interactive apps and web pages can also be built and deployed by analysts, to communicate analysis and insight to decision–makers.
+
+---
+
+![](prison_reports.png)
 
 (pause: 1)
 
@@ -104,11 +120,7 @@ If you're unsure about what to do or if you encounter a problem, this is definit
 
 (voice: william) 
 
-(pause: 1)
-
 Should you require direct support from a member of the Analytical Platform team, you can always drop into the analytical platform channel in Slack.
-
-(pause: 1)
 
 Remember to supply your username and describe your problem with as much detail as possible.
 
@@ -126,4 +138,4 @@ The analytical platform is there to help you get the job done, using best of bre
 
 We hope you enjoy working with the Analytical Platform.
 
-(pause: 10)
+(pause: 2)
